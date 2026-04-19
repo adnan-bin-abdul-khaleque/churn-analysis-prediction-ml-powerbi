@@ -49,7 +49,6 @@ Answers:
 - High-risk customers list
 - Recommended retention actions
 - Churn probability distribution
-- Revenue at risk (predicted)
 
 ## 🖼 Dashboard Preview
 ![Churn Prediction Dashboard](images/churn_prediction.png)
